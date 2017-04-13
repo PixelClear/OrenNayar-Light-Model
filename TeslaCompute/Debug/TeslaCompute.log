@@ -1,0 +1,19 @@
+﻿Build started 4/13/2017 7:49:29 PM.
+     1>Project "C:\Users\Paritosh\Documents\Visual Studio 2012\Projects\TeslaCompute\TeslaCompute\TeslaCompute.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Paritosh\Documents\Visual Studio 2012\Projects\TeslaCompute\\Include" /I"C:\Users\Paritosh\Documents\Visual Studio 2012\Projects\TeslaCompute\\Include\assimp" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TeslaComputeMain.cpp
+         TeslaComputeMain.cpp
+     1>c:\users\paritosh\documents\visual studio 2012\projects\teslacompute\teslacompute\teslacomputemain.cpp(152): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\paritosh\documents\visual studio 2012\projects\teslacompute\teslacompute\teslacomputemain.cpp(155): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\paritosh\documents\visual studio 2012\projects\teslacompute\teslacompute\teslacomputemain.cpp(158): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\paritosh\documents\visual studio 2012\projects\teslacompute\teslacompute\teslacomputemain.cpp(161): warning C4305: '-=' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Paritosh\Documents\Visual Studio 2012\Projects\TeslaCompute\Debug\TeslaCompute.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Paritosh\Documents\Visual Studio 2012\Projects\TeslaCompute\\Lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib freeglut.lib glew32.lib CORE_DB_Magick++_.lib FreeImage.lib freetype2410_D.lib AntTweakBar.lib FreeImage.lib assimp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Paritosh\Documents\Visual Studio 2012\Projects\TeslaCompute\Debug\TeslaCompute.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Paritosh\Documents\Visual Studio 2012\Projects\TeslaCompute\Debug\TeslaCompute.lib" /MACHINE:X86 Debug\pgl_mesh.obj
+         Debug\pgl_texture.obj
+         Debug\TeslaComputeMain.obj
+         TeslaCompute.vcxproj -> C:\Users\Paritosh\Documents\Visual Studio 2012\Projects\TeslaCompute\Debug\TeslaCompute.exe
+     1>Done Building Project "C:\Users\Paritosh\Documents\Visual Studio 2012\Projects\TeslaCompute\TeslaCompute\TeslaCompute.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.94
