@@ -13,5 +13,4 @@ Download project and open solution file in VS 2012 .
 Build and run project. You will only need to copy dll`s needed in folder where exe is present.
 
 Demo 
-
-![Alt text](https://youtu.be/a1llXPmVExw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/a1llXPmVExw/0.jpg)](https://www.youtube.com/watch?v=a1llXPmVExw)
